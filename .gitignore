@@ -1,0 +1,9 @@
+# EAGLE artifacts
+*.b#[1-9]
+*.s#[1-9]
+
+# MacOS artifacts
+.DS_Store
+
+# Windows artifacts
+Thumbs.db
